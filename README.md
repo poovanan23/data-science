@@ -19,7 +19,9 @@ machine learning algorithms
     Association Rules Mining
     Clustering
     Text minning
+    Principal Component Analysis
     Recommender systems
+
     
 
 
